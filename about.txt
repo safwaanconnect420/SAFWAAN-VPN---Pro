@@ -1,0 +1,2 @@
+This server are provide by www.freevpn.us for free.
+You can utilize port 80 and 443 for TCP, port 1194 for UDP connections. Additionally, SSL/TLS is available on port 443, and WebSocket ports include 8880, 2052, 2082, 2086, and 2095.
