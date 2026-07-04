@@ -1,4 +1,6 @@
-<img width="1593" height="629" alt="Screenshot 2026-07-04 082038" src="https://github.com/user-attachments/assets/cfd61b56-c286-4c68-bbd7-c7498b347646" /><img width="1859" height="862" alt="image" src="https://github.com/user-attachments/assets/b98ed8dc-0ec1-4663-91ea-de076255b497" />
+<img width="1491" height="764" alt="Screenshot 2026-07-04 080701" src="https://github.com/user-attachments/assets/8f18eb56-b74e-4b1d-af10-9d15717476e4" /><img width="1859" height="862" alt="image" src="https://github.com/user-attachments/assets/bc1bb1bc-5a0c-4ef4-be0a-1e99607c968e" />
+
+<img width="20" height="11" alt="image" src="https://github.com/user-attachments/assets/fc495c81-6824-46b3-8ec0-378569bdd807" />
 
 
 <div align="center">
@@ -12,11 +14,12 @@
     <img src="https://img.shields.io/badge/Three.js-Animations-yellow" />
   </p>
 </div>
+<img width="1262" height="936" alt="Screenshot 2026-07-04 080619" src="https://github.com/user-attachments/assets/174c8901-0b98-4be7-bd69-b8cf6f00e2c5" />
+![Uploading Screenshot 2026-07-04 080936.png…]()
+<img width="768" height="423" alt="Screenshot 2026-07-04 060352" src="https://github.com/user-attachments/assets/bf83b16e-5251-4522-85ec-b859a3697a74" />
 
----<img width="20" height="11" alt="image" src="https://github.com/user-attachments/assets/cf154bfd-bf9a-4ce6-8e57-2606bfbad33a" />  
+---<img width="20" height="11" alt="image" src="https://github.com/user-attachments/assets/cf154bfd-bf9a-4ce6-8e57-2606bfbad33a" />    
 
-
-<img width="768" height="423" alt="Screenshot 2026-07-04 060352" src="https://github.com/user-attachments/assets/e15911cd-1523-476e-99c4-5b9de0df2317" />
 
 
 ![Uploading Screenshot 2026-07-<img width="1262" height="936" alt="Screenshot 2026-07-04 080619" src="https://github.com/user-attachments/assets/31422733-1d3c-4466-ad73-955e28f6656c" />
