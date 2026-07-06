@@ -17,7 +17,7 @@
 
 ## 🌟 Why SAFWAAN VPN?
 
-Say goodbye to internet restrictions with **SAFWAAN VPN**—the ultimate, all-in-one VPN configuration manager that combines cutting-edge technology, beautiful UI/UX, and thousands of free, auto-updating servers! Whether you're looking to bypass censorship, access blocked content, or use your social data packages for full internet access—SAFWAAN VPN has you covered!
+Say goodbye to internet restrictions with **SAFWAAN VPN**—the ultimate, all-in-one VPN configuration manager that combines cutting-edge technology, beautiful UI/UX, and thousands of free, auto-updating servers! Whether you're looking to bypass censorship, access blocked content — SAFWAAN VPN has you covered!
 
 ---
 
@@ -40,7 +40,7 @@ Say goodbye to internet restrictions with **SAFWAAN VPN**—the ultimate, all-in
 
 ### 🌍 Global & Regional Coverage
 - **Thousands of Free Servers**: Access configs from all around the world
-- **Social Media Masking**: Optimized servers for Facebook, Instagram, YouTube, TikTok, Twitter/X, WhatsApp, Telegram—use your Encrepted access.
+- **Social Masking**: Optimized servers for Facebook, Instagram, YouTube, TikTok, Twitter/X, WhatsApp, Telegram—use your Encrepted access.
 -  Pre-configured configs for:
 -  Advanced payloads to bypass deep packet inspection
 
